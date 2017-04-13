@@ -1,0 +1,13 @@
+<component info='CentraStage Component'>
+  <general>
+    <name>Azure AD Sync, Full</name>
+    <category>scripts</category>
+    <description>Forces full Azure AD Sync. Obv. only works on servers with Azure AD Sync installed.</description>
+    <uid>0e8a9f76-8003-4cd5-96f8-e2d40add494a</uid>
+    <hash />
+    <version>5</version>
+    <timeout>3600</timeout>
+    <securityLevel>5</securityLevel>
+    <installType>powershell</installType>
+  </general>
+</component>
